@@ -46,7 +46,6 @@ Follow the on-screen instructions to play the Block Worlds game. Use commands or
 
 - Console-based interface for gameplay
 - Block manipulation functionalities
-- Challenge-based levels with varying complexities
 
 ## Contributing
 
