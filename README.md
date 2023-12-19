@@ -14,7 +14,6 @@ The game involves manipulating blocks within a world, moving them around to achi
 2. [Usage](#usage)
 3. [Features](#features)
 4. [Contributing](#contributing)
-5. [License](#license)
 
 ## Installation
 
